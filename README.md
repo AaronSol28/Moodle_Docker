@@ -16,7 +16,7 @@ Antes de empezar la imstalaciom vamos a contestar las siguientes preguntas:
 6.- ¿Qué tarjeta(s) de video tiene?
     Tiene dos tarjetas AMD Radeon PRO W5500X de 8 GB
     
-    ![image](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/46a6ddf8-eea3-4d24-a4da-95ac7fe6bb89)
+![image](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/46a6ddf8-eea3-4d24-a4da-95ac7fe6bb89)
 
 
 Para empezar con la instalacion, debemos de habera ya instalado Git y Docker en nuestra Mac, una vez teniendo esto abriremos uns linea de comandos donde clonaremos este mismo repositorio que contiene el docker-compose.yml que es el que nos ayudara con la instalacion, para eso usaremos el siguiente comando: $ Git clone https://github.com/AaronSol28/Moodle_Docker.git
