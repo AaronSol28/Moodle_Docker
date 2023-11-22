@@ -23,3 +23,18 @@ Para empezar con la instalacion, debemos de habera ya instalado Git y Docker en 
 
 
 ![2](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/a344a1c1-8bfd-413c-ba33-c6d35c3325a6)
+
+Una vez tengamos el repositorio clonado, lo que haremos es ir a la ruta donde se guardo el contenido del repositorio, para esto usaremos el siguiente comando: $ Cd Moodle_docker
+
+
+![3](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/7e1c1e14-13e3-4e1e-9d6c-cd619043c9dd)
+
+Lo siguiente sera verificar el archivo Docker-compose.yml para ver que el contenido sea correcto con el siguiente comando: $ cat docker-compose.yml
+
+![4](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/b31c9478-4259-4f3c-ae1d-08a2f5652196)
+
+Ahora, para poder descargar y montar la imagen y el contenedor de moodle en nuestra Mac, debemos de correr el siguiente comando: $ docker-compose -f docker-compose.yml up -d, ahora esperaremos a que se descarguen e instale el contenedor con las imagenes necesarias.
+
+![5](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/e2966aff-e165-4d2b-9feb-bd3a85933c2b)
+
+
