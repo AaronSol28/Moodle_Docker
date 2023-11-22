@@ -37,4 +37,17 @@ Ahora, para poder descargar y montar la imagen y el contenedor de moodle en nues
 
 ![5](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/e2966aff-e165-4d2b-9feb-bd3a85933c2b)
 
+Ya terminado el proceso de instalacion, usaremos el comando: $ docker ps, para ver lo que esta corriendo y los puertos en donde vamos a acceder a ellos.
 
+![6](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/cc322382-0ef9-41c0-bc14-07b530d8e236)
+
+
+En nuestro caso el servicio esta corriendo en el puerto 8080 de nuestra maquina, para visualizar moodle corriendo nos iremos a nuestro navegador safari y pondremos en el buscador lo siguiente:
+http://localhost:8080
+
+![7](https://github.com/AaronSol28/Moodle_Docker/assets/105986750/a7ebc7e7-48a7-4eac-abfd-ec959daff3e7)
+
+Con esto habremos acabado con la instalacion de un Sistema LMS Moodle usando Docker en una computadora Mac Pro 2019 satisfactoriamente.
+
+Conclusiones:
+En esta actividad pude experimentar un caso muy cercano a la realidad en cuanto al tipo de tareas que se me asignarian en un trabajo de DevOps, usando un equipo de alta gama y con la potencia necesaria para correr el sistema, asi como tambien los comandos y herramientas dentro del SO para implementar el mismo. Me deja una experiencia para las tareas que se me posrian asignar en un trabajo.
