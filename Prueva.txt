@@ -2,3 +2,4 @@ Pruebaasdaas
 Hola
 prueba en clase commit devops
 Revision071223
+RECUERDA que  sudo docker login -u jesuslug
